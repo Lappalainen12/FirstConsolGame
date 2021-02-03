@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\GuessNumberGame\GuessNumberGame\bin\Debug\GuessNumberGame.exe.config
+C:\Users\USER\source\repos\GuessNumberGame\GuessNumberGame\bin\Debug\GuessNumberGame.exe
+C:\Users\USER\source\repos\GuessNumberGame\GuessNumberGame\bin\Debug\GuessNumberGame.pdb
+C:\Users\USER\source\repos\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.exe
+C:\Users\USER\source\repos\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.pdb
